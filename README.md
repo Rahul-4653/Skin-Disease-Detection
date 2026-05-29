@@ -25,3 +25,6 @@ Lesion shapes
 Inflammation regions
 
 These features are used to classify images into one of the supported disease categories.
+
+Disclaimer
+This project is developed for educational and research purposes only. It is not intended to replace professional medical diagnosis or treatment.
